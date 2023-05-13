@@ -1,0 +1,7 @@
+search_depth = 4
+
+# 1=human, 2=computer
+starting_player = 1
+
+# don't forget de 'f' at then end
+window_scale = 0.5f
